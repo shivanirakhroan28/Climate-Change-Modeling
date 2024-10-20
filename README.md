@@ -10,3 +10,6 @@ In this project, I explored various Natural Language Processing (NLP) techniques
 2.Identify trends in public opinion about climate change over time.
 3.Discover key themes in the conversation through topic modeling.
 4.Analyze engagement metrics, such as likes and responses, to understand the impact of different posts.
+
+**Libraries & Tools**
+Python,Jupyter Notebook,scikit-learn,NLTK,TensorFlow/Keras,Matplotlib/Seaborn
