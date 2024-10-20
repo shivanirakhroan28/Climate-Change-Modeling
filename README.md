@@ -4,7 +4,7 @@ This project demonstrates the use of machine learning to analyze public sentimen
 **Project Description**
 In this project, I explored various Natural Language Processing (NLP) techniques to analyze public discourse on climate change. The dataset consists of user comments with features such as date, number of likes, and comment text, providing a foundation for sentiment analysis, trend analysis, and topic modeling.
 
-By using machine learning techniques, the project aims to:
+**By using machine learning techniques, the project aims to:**
 
 1.Classify public sentiment (positive, negative, or neutral).
 2.Identify trends in public opinion about climate change over time.
